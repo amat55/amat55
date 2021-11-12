@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ahmet
 
-<!--
+<img align="right" alt="GIF" src="https://github.com/amat55/amat55/blob/main/yoda-coffee.gif" width="500" height="400" />
 
 - 🔭 I’m currently working on my self Projeects
 - 🌱 I’m currently learning Java , Sql , Linux
@@ -10,4 +10,4 @@
 - 📫 How to reach me: [instagram](https://www.instagram.com/amat_555/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: learning anything :)
--->
+
